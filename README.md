@@ -14,3 +14,12 @@ The project is suitable for students and book lovers who want to organize their 
 Yuhao Guo
 
 Tianyang Zhang
+
+
+User stories
+No.         Title                           Short description                                         Priority            Estemated Effort
+1           User Registration and Login     Users can register, log in, and manage their account      10                  3 days
+2           Browse Book Library             Users can view books with title, author, category,        10                  3 days
+                                            and cover image.
+3           Search Books                    Provides a search function to locate books quickly.        10                  5 fays
+4           
