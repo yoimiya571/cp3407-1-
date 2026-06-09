@@ -1,0 +1,10 @@
+scrum-project-tr2-2025-group-7/
+├── readsite/
+├── users/
+├── templates/
+├── static/
+├── media/
+├── docs/
+│   └── iteration-1-board.md
+├── manage.py
+└── README.md
